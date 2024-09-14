@@ -11,5 +11,11 @@ export default ({ mode }) => ({
     rollupOptions: { input: resolve(process.cwd(), 'src/index.js') }
   },
 
-  plugins: [kirby()]
+  plugins: [kirby({
+    watch: [
+      '../site/(templates|snippets|controllers|models|layouts)/**/*.php',
+      '../site/(templates|snippets|controllers|models|layouts)/**/*.twig',
+      '../content/**/*',
+    ]
+  })]
 })
