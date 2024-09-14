@@ -3,9 +3,10 @@
 ## Features
 
 - ⚡️ Uses [Vite](https://vitejs.dev/) with [kirby-vite](https://github.com/arnoson/kirby-vite) plugin
-- 🔄 Live Reloading for Kirby templates, snippets, content, ... changes
-- 📂 [Public folder structure](https://getkirby.com/docs/guide/configuration#custom-folder-setup__public-folder-setup)
+- 🌱 [Twig](https://twig.symfony.com/) for templating
 - 💅 [Tailwindcss](https://tailwindcss.com) for styling
+- 🔄 Live Reloading for Kirby and Twig templates, snippets, content, ... changes
+- 📂 [Public folder structure](https://getkirby.com/docs/guide/configuration#custom-folder-setup__public-folder-setup)
 
 ## Installation
 
