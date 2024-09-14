@@ -22,6 +22,8 @@ npm install
 
 ## Development
 
+If using Herd or Valet, change your `site/config/config.localhost.php` file to match your site's dev URL.
+
 Start vite's dev server and a simple php dev server by running:
 
 ```

@@ -1,1 +1,1 @@
-Title: Kirby-Vite-Basic-Kit
+Title: Kirby-Vite-Basic-Kit + Tailwind + Twig
