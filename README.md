@@ -1,4 +1,4 @@
-# Kirby Vite Basic Kit
+# Kirby Vite Basic Kit + Tailwind + Twig
 
 ## Features
 
